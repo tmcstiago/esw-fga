@@ -40,7 +40,7 @@ public class Principal {
 			default:
 				break;
 			}
-		} while (!((String)opcaoSelecionada).equals((String)opcoesPossiveis[6]));
+		} while (!((String)opcaoSelecionada).equals((String)opcoesPossiveis[5]));
 	}
 
 
